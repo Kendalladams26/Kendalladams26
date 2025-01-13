@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm currently learning Github and using it in my Computer Science 221 class which uses Javascript. 
+I'm also currently working on a project for my NASA-SUITS Team.
 <!--
 **Kendalladams26/Kendalladams26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
